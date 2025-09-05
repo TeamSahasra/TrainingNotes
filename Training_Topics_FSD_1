@@ -61,10 +61,10 @@ Create a New Library Project
 ------------------------
 1. Database Creation in Sql server
 2. Connection string details
-	a) Server - sql5113.site4now.net
+	a) Server - ****************
 	b) UserName - db_a51099_sms2025_admin
-	c) Password - Sahasra@123
-	d) Database Name - db_a51099_sms2025
+	c) Password - ****************
+	d) Database Name - *************
 	e) Authentictaion Type to connect the Sql Server
 		i) Sql Server Authentication
 		ii) Windows Authentication
