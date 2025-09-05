@@ -1,0 +1,174 @@
+18-Aug-2025
+
+OverView Of Git:
+---------------------------------------
+Repository
+Git Source Control/Version Control
+New Branch Creation from Existing Branch
+Local Branch 
+Remote Branch
+PullRequest
+Compare Code in editor
+How many files are changes in Git
+Apprival Process
+Merge Conflicts - How to Resolve
+
+Creata a New Solution in VS
+Create a New Web Project in VS
+Create a New Web API Project in VS
+Create a New Library Project
+
+
+19-Aug-2025
+-------------
+1. NetFramework
+2..Net Core
+3. Configuration web.config vs appsettings.json
+4. Value Types vs Refernce Types
+5. Project Reference
+6. Type of classes
+7. Type Of Methods
+8. Constructor and Types
+9. Access Modifires
+10. Method Overloading vs Method Overriding
+
+20-Aug-2025
+-----------------
+1. Grabage Colector - .Net framework
+2. C# resorved keywords
+3. DDL
+4. DML
+4. DCL
+5. TCL
+6. DQL
+7. Stored Procedures
+8. Database First Approach vs Code First Approach
+9. Who Columns nd Time Zone  functionality
+
+21-Aug-2025
+---------------
+1. Schema
+2. Table
+3. Migration Table and Data from one database to another database
+4. If same object created - There is already an object named 'Staff' in the database.
+5. DBCOntext
+6. DBset
+7. EFPowertools -> Reverse Engineer?
+8. Database First Approach
+
+
+22-Aug-2025
+------------------------
+1. Database Creation in Sql server
+2. Connection string details
+	a) Server - sql5113.site4now.net
+	b) UserName - db_a51099_sms2025_admin
+	c) Password - Sahasra@123
+	d) Database Name - db_a51099_sms2025
+	e) Authentictaion Type to connect the Sql Server
+		i) Sql Server Authentication
+		ii) Windows Authentication
+	
+	
+23-Aug-2025
+-----------------------
+1. Linq- Unified syntax across different data sources (Objects, SQL, XML, JSON, EF Core).
+2. Ling - Supports filtering, sorting, grouping, joining, aggregation.
+3. Layout
+4. Header & Footer  How to Load Partial Views
+5. Views
+6. Html
+7. Css
+8. Javascript
+9. Startup vs Program.cs
+10. @RenderBody()
+11. Login
+12. Forgot password
+13. Register user
+
+
+24-Aug-2025
+--------------------------
+1. How to reference cdn css and JS files in cshtml
+2. How to copy the cdn files and refernce in our application APP code
+3. CSS and JS files refernces addition in cshtml
+4. Layout reference and Default Route change
+5. css class vs id
+6. form in html
+7. button in html
+8. input types html
+9. httppost vs httpget
+10 Access modifiers - public , private, internal
+11. Model Validation, and cshtml model bindings
+	Required
+	Message
+	Asp-for
+
+
+View - Controller - Services - Repository 
+
+25-Aug-2025
+---------------------
+1.Debugging shotcuts
+2.Object Creation Types
+	a) Using new keyword
+3. Events
+ a) Onload
+ b) Button click
+ c) Link Click
+ 
+ 26-Aug-2025
+ ---------------
+ 1. Login and Logout Session Management
+ 
+ 2. A d =new d() T1  S1 ST1
+    B d =new d() T2  S1 ST1
+	C d =new d() T3  S1 ST1
+
+3.  A d =new d() ST1
+    B d =new d() ST1
+	C d =new d() ST1
+	
+4.  A d =new d() ST1
+    B d =new d() ST1
+	C d =new d() ST1
+	
+	D - Singleton - Configuration Settings
+	D - Scoped - Each Request will have one instance
+	D - Transient - Each Class contructor create a new object
+
+5. Class vs Interface
+
+03-SEP-2025
+----------------------
+1. Layout 
+	a) Default
+	b) Specific Layout to force to use
+	
+2. Button attributes in html
+3. Form Attributes in html
+4. Html tag helpers in c@ asp.net MVC
+5. Rendor Body()
+
+
+04-SEP-2025
+------------------------
+1. Login And Create Session
+2. Logout Session
+3. Cookies Authetication
+4. Claims
+5. a. Login User Name and Password
+   b. MFA - Authentication
+   c. Creation session
+6. Cookies	, Session , JWT Token, oAuth, SSO
+7. a.Creation Session
+   b.Check the session exist when trying to access Account/Login
+   c. Exists  - Home/Index not Exists - Account/Login
+   d.Authorize
+   
+
+05-SEP-2025
+--------------
+1. Authentication
+2. Authorization
+
