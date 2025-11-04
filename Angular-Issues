@@ -1,0 +1,9 @@
+Issue 1:
+ng : File C:\Users\TeamS\AppData\Roaming\npm\ng.ps1 cannot be loaded because running scripts is disabled on this system. 
+For more information, see about_Execution_Policies at https:/go.microsoft.com/fwlink/?LinkID=135170. At line:1 char:1 + ng serve + ~~ + CategoryInfo :
+SecurityError: (:) [], PSSecurityException + FullyQualifiedErrorId : UnauthorizedAccess
+
+Solution: 
+# In the same PowerShell window
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass -Force
+ng serve
