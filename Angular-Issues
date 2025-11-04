@@ -7,3 +7,8 @@ Solution:
 # In the same PowerShell window
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass -Force
 ng serve
+
+# run PowerShell as admin just once
+Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
+# for a single session only, you can also do:
+# Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
